@@ -3,9 +3,9 @@
 ## Fase 1: Planificación
 
 ### Roles:
-- Cliente
-- Programador
-- Tester
+- Cliente - Juan Rengifo
+- Programador - Victor Rodriguez y Kelly Sangoluisa
+- Tester - Jonathan Poaquiza
 
 ### Procesos:
 1. **Identificación de Requisitos:**
@@ -24,8 +24,8 @@
 ## Fase 2: Diseño
 
 ### Roles:
-- Programador
-- Diseñador
+- Programador - Victor Rodriguez y Kelly Sangoluisa
+- Diseñador - Cesar Soria
 
 ### Procesos:
 1. **Diseño Incremental:**
@@ -40,8 +40,8 @@
 ## Fase 3: Codificación
 
 ### Roles:
-- Programador
-- Tester
+- Programador - Victor Rodriguez y Kelly Sangoluisa
+- Tester - Jonathan Poaquiza
 
 ### Procesos:
 1. **Desarrollo de Funcionalidades:**
@@ -60,8 +60,8 @@
 ## Fase 4: Pruebas
 
 ### Roles:
-- Tester
-- Programador
+- Tester - Jonathan Poaquiza
+- Programador - Victor Rodriguez y Kelly Sangoluisa
 
 ### Procesos:
 1. **Pruebas de Integración:**
@@ -81,8 +81,8 @@
 ## Fase 5: Retroalimentación
 
 ### Roles:
-- Cliente
-- Equipo de Desarrollo
+- Cliente - Juan Rengifo
+- Equipo de Desarrollo - Victor Rodriguez, Kelly Sangoluisa, Cesar Soria, Lenin Rodriguez, Jonathan Poaquiza
 
 ### Procesos:
 1. **Revisión de Iteración:**
@@ -100,8 +100,8 @@
 ## Fase 6: Implementación
 
 ### Roles:
-- Equipo de Desarrollo
-- Cliente
+- Equipo de Desarrollo - Victor Rodriguez, Kelly Sangoluisa, Cesar Soria, Lenin Rodriguez, Jonathan Poaquiza
+- Cliente - Juan Rengifo
 
 ### Procesos:
 1. **Despliegue:**
