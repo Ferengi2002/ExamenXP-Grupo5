@@ -18,6 +18,8 @@
 
 ### Artefacto Resultante:
 - Planificación de Iteraciones
+- Historias de Usuario
+- Estadares de Codificación
 
 ---
 
@@ -33,7 +35,9 @@
    - Se realizan revisiones constantes para mejorar la calidad del diseño.
 
 ### Artefacto Resultante:
-- Diseños Incrementales
+- Tarjetas CRC
+- Diagramas de Clase
+- Prototipos
 
 ---
 
@@ -54,7 +58,7 @@
 ### Artefacto Resultante:
 - Código Implementado
 - Informe de Pruebas Unitarias
-
+- Refactor
 ---
 
 ## Fase 4: Pruebas
@@ -75,41 +79,7 @@
 ### Artefacto Resultante:
 - Informe de Pruebas de Integración
 - Informe de Pruebas de Aceptación del Cliente
-
----
-
-## Fase 5: Retroalimentación
-
-### Roles:
-- Cliente - Juan Rengifo
-- Equipo de Desarrollo - Victor Rodriguez, Kelly Sangoluisa, Cesar Soria, Lenin Rodriguez, Jonathan Poaquiza
-
-### Procesos:
-1. **Revisión de Iteración:**
-   - El Cliente y el Equipo de Desarrollo revisan el trabajo completado.
-   - Se recopilan comentarios y se planifican mejoras.
-
-2. **Mejora Continua:**
-   - Se realizan ajustes en los procesos según la retroalimentación recibida.
-
-### Artefacto Resultante:
-- Informe de Revisión de Iteración
-
----
-
-## Fase 6: Implementación
-
-### Roles:
-- Equipo de Desarrollo - Victor Rodriguez, Kelly Sangoluisa, Cesar Soria, Lenin Rodriguez, Jonathan Poaquiza
-- Cliente - Juan Rengifo
-
-### Procesos:
-1. **Despliegue:**
-   - Se implementa la versión final en el entorno de producción.
-   - El Cliente verifica la implementación.
-
-### Artefacto Resultante:
-- Sistema Desplegado
+- Manual de Usuario
 
 ---
 
