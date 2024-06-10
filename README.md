@@ -1,1 +1,2 @@
-# ExamenXP-Grupo5
+# Password-manager-en-XP
+Implementación de un Gestor de Contraseñas con Extreme Programming
