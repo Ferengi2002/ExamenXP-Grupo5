@@ -1,2 +1,2 @@
-# Password-manager-en-XP
+# Gestor de Contraseñas Personales
 Implementación de un Gestor de Contraseñas con Extreme Programming
